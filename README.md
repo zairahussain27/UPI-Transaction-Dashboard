@@ -77,6 +77,7 @@ The dataset was cleaned and structured using Power Query before visualization.
 * Interactive filters for dynamic analysis
 
   <img width="1317" height="735" alt="image" src="https://github.com/user-attachments/assets/4c55fd30-42a0-4ca5-955f-bf57cef4737e" />
+  <img width="1276" height="719" alt="image" src="https://github.com/user-attachments/assets/282ef57c-22d0-4abb-865d-a14f0133ce22" />
 
 
 ---
